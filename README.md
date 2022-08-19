@@ -1,8 +1,7 @@
 # Grupo-2
 <p align="center">
 <a href="https://imgbb.com/">
-<img src="https://i.ibb.co/SVzVG88/flaticon.png" alt="flaticon" border="0">
-</a>width="250px">
+<img src="https://i.ibb.co/SVzVG88/flaticon.png" alt="flaticon" border="0"></a>width="250px">
 </p>
 
 <h2 align="center">ExitoTech</h2>
