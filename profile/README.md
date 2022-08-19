@@ -27,7 +27,7 @@ Através do monitoramento do uso de cpu, disco e ram, por meio de grandes tecnol
 ## Autores
 - **Breno Galante** - [Breno-Galante](https://github.com/Breno-Galante)
 - **Charles Kulkauski** - [charleskulkauski](https://github.com/charleskulkauski)
-- **Guilherme Trarifa** - [Guilherme-Tarifa-Vieira](https://github.com/Guilherme-Tarifa-Vieira) 
+- **Guilherme Tarifa** - [Guilherme-Tarifa-Vieira](https://github.com/Guilherme-Tarifa-Vieira) 
 - **Pedro Lucas** - [pedro-ps](https://github.com/pedro-ps)
 - **Vinicius A Nunes** - [VinyProgramador](https://github.com/VinyProgramador)
 - **Viniicus S Barbosa** - [Vinicius-S8U](https://github.com/weskleyolive)
