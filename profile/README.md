@@ -30,4 +30,4 @@ Através do monitoramento do uso de cpu, disco e ram, por meio de grandes tecnol
 - **Guilherme Tarifa** - [Guilherme-Tarifa-Vieira](https://github.com/Guilherme-Tarifa-Vieira) 
 - **Pedro Lucas** - [pedro-ps](https://github.com/pedro-ps)
 - **Vinicius A Nunes** - [VinyProgramador](https://github.com/VinyProgramador)
-- **Viniicus S Barbosa** - [Vinicius-S8U](https://github.com/Vinicius-S8U)
+- **Vinicius S Barbosa** - [Vinicius-S8U](https://github.com/Vinicius-S8U)
